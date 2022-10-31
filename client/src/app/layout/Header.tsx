@@ -11,7 +11,6 @@ import {
 } from "@material-ui/core";
 
 import { ShoppingCart } from "@material-ui/icons";
-
 import { NavLink } from "react-router-dom";
 
 interface Props {
